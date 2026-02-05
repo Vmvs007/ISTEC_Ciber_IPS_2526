@@ -24,23 +24,6 @@ O objetivo deste repositório é apoiar os estudantes na aprendizagem prática d
 
 ---
 
-## 📂 Estrutura do Repositório
-
-As resoluções estão organizadas por **fichas práticas** e/ou **temas**, facilitando a navegação, consulta e revisão dos conteúdos abordados ao longo da unidade curricular.
-
-Exemplo de organização:
-
-/Batch
-├── PL01
-└── PL02
-
-/C
-├── PL01
-├── PL02
-└── PL03
-
----
-
 ## 🔍 Temas Abordados
 
 ### 🖥️ Batch Scripting (Windows)
