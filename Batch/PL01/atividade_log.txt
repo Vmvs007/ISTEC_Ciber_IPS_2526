@@ -1,0 +1,20 @@
+Processo Iniciado 
+ Volume in drive C has no label.
+ Volume Serial Number is 9410-9AD5
+
+ Directory of C:\Users\vmvs0\Desktop\PL01
+
+05/02/2026  09:37    <DIR>          .
+05/02/2026  09:23    <DIR>          ..
+05/02/2026  09:39                20 atividade_log.txt
+05/02/2026  09:28    <DIR>          Backup
+05/02/2026  09:23                57 Ex01.bat
+05/02/2026  09:25                41 Ex02.bat
+05/02/2026  09:29               141 Ex03.bat
+05/02/2026  09:34               122 Ex04.bat
+05/02/2026  09:39               158 Ex05.bat
+05/02/2026  09:26    <DIR>          Files
+05/02/2026  09:36    <DIR>          Logs
+               6 File(s)            539 bytes
+               5 Dir(s)  720ÿ879ÿ321ÿ088 bytes free
+Processo Concluido 
