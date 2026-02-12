@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\vmvs0\c\fichaspraticasc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1770911019 source:c:\users\vmvs0\c\fichaspraticasc\ex01.c
+	<stdio.h>
+	<stdlib.h>
+
+1770911377 source:c:\users\vmvs0\c\fichaspraticasc\ex02.c
+	<stdio.h>
+	<stdlib.h>
+
+1770911894 source:c:\users\vmvs0\c\fichaspraticasc\ex04.c
+	<stdio.h>
+	<stdlib.h>
+
